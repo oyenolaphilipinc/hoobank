@@ -22,13 +22,13 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        You do the comanion, <br className="sm:block hidden" /> our model does
+        the magic.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        With the right knowledge, you can improve your financial and health life by
+        creating a companion, ready to listen and help. A companion powered
+        to help you along the way.
       </p>
 
       <Button styles={`mt-10`} />
